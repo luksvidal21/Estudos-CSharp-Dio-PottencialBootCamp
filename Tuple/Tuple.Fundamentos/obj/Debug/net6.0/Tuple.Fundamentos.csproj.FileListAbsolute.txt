@@ -1,0 +1,15 @@
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\CSharp-Topicos\Tuple\Tuple.Fundamentos\bin\Debug\net6.0\Tuple.Fundamentos.exe
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\CSharp-Topicos\Tuple\Tuple.Fundamentos\bin\Debug\net6.0\Tuple.Fundamentos.deps.json
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\CSharp-Topicos\Tuple\Tuple.Fundamentos\bin\Debug\net6.0\Tuple.Fundamentos.runtimeconfig.json
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\CSharp-Topicos\Tuple\Tuple.Fundamentos\bin\Debug\net6.0\Tuple.Fundamentos.dll
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\CSharp-Topicos\Tuple\Tuple.Fundamentos\bin\Debug\net6.0\ref\Tuple.Fundamentos.dll
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\CSharp-Topicos\Tuple\Tuple.Fundamentos\bin\Debug\net6.0\Tuple.Fundamentos.pdb
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\CSharp-Topicos\Tuple\Tuple.Fundamentos\obj\Debug\net6.0\Tuple.Fundamentos.csproj.AssemblyReference.cache
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\CSharp-Topicos\Tuple\Tuple.Fundamentos\obj\Debug\net6.0\Tuple.Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\CSharp-Topicos\Tuple\Tuple.Fundamentos\obj\Debug\net6.0\Tuple.Fundamentos.AssemblyInfoInputs.cache
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\CSharp-Topicos\Tuple\Tuple.Fundamentos\obj\Debug\net6.0\Tuple.Fundamentos.AssemblyInfo.cs
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\CSharp-Topicos\Tuple\Tuple.Fundamentos\obj\Debug\net6.0\Tuple.Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\CSharp-Topicos\Tuple\Tuple.Fundamentos\obj\Debug\net6.0\Tuple.Fundamentos.dll
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\CSharp-Topicos\Tuple\Tuple.Fundamentos\obj\Debug\net6.0\ref\Tuple.Fundamentos.dll
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\CSharp-Topicos\Tuple\Tuple.Fundamentos\obj\Debug\net6.0\Tuple.Fundamentos.pdb
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\CSharp-Topicos\Tuple\Tuple.Fundamentos\obj\Debug\net6.0\Tuple.Fundamentos.genruntimeconfig.cache

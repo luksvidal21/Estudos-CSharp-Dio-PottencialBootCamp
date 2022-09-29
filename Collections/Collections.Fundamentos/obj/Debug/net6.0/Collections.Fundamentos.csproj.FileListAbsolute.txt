@@ -1,0 +1,15 @@
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\Collections\Collections.Fundamentos\bin\Debug\net6.0\Collections.Fundamentos.exe
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\Collections\Collections.Fundamentos\bin\Debug\net6.0\Collections.Fundamentos.deps.json
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\Collections\Collections.Fundamentos\bin\Debug\net6.0\Collections.Fundamentos.runtimeconfig.json
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\Collections\Collections.Fundamentos\bin\Debug\net6.0\Collections.Fundamentos.dll
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\Collections\Collections.Fundamentos\bin\Debug\net6.0\ref\Collections.Fundamentos.dll
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\Collections\Collections.Fundamentos\bin\Debug\net6.0\Collections.Fundamentos.pdb
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\Collections\Collections.Fundamentos\obj\Debug\net6.0\Collections.Fundamentos.csproj.AssemblyReference.cache
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\Collections\Collections.Fundamentos\obj\Debug\net6.0\Collections.Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\Collections\Collections.Fundamentos\obj\Debug\net6.0\Collections.Fundamentos.AssemblyInfoInputs.cache
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\Collections\Collections.Fundamentos\obj\Debug\net6.0\Collections.Fundamentos.AssemblyInfo.cs
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\Collections\Collections.Fundamentos\obj\Debug\net6.0\Collections.Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\Collections\Collections.Fundamentos\obj\Debug\net6.0\Collections.Fundamentos.dll
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\Collections\Collections.Fundamentos\obj\Debug\net6.0\ref\Collections.Fundamentos.dll
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\Collections\Collections.Fundamentos\obj\Debug\net6.0\Collections.Fundamentos.pdb
+C:\Users\lucasvnm\Documents\Lucas Vidal\Estudos C#\Collections\Collections.Fundamentos\obj\Debug\net6.0\Collections.Fundamentos.genruntimeconfig.cache
