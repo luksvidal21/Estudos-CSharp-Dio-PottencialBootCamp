@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Documentos\CSharp_Estudos\Exceptions.Fundamentos\bin\Debug\net6.0\Exceptions.Fundamentos.exe
+C:\Users\lucas\OneDrive\Documentos\CSharp_Estudos\Exceptions.Fundamentos\bin\Debug\net6.0\Exceptions.Fundamentos.deps.json
+C:\Users\lucas\OneDrive\Documentos\CSharp_Estudos\Exceptions.Fundamentos\bin\Debug\net6.0\Exceptions.Fundamentos.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\CSharp_Estudos\Exceptions.Fundamentos\bin\Debug\net6.0\Exceptions.Fundamentos.dll
+C:\Users\lucas\OneDrive\Documentos\CSharp_Estudos\Exceptions.Fundamentos\bin\Debug\net6.0\Exceptions.Fundamentos.pdb
+C:\Users\lucas\OneDrive\Documentos\CSharp_Estudos\Exceptions.Fundamentos\obj\Debug\net6.0\Exceptions.Fundamentos.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\CSharp_Estudos\Exceptions.Fundamentos\obj\Debug\net6.0\Exceptions.Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\CSharp_Estudos\Exceptions.Fundamentos\obj\Debug\net6.0\Exceptions.Fundamentos.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\CSharp_Estudos\Exceptions.Fundamentos\obj\Debug\net6.0\Exceptions.Fundamentos.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\CSharp_Estudos\Exceptions.Fundamentos\obj\Debug\net6.0\Exceptions.Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\CSharp_Estudos\Exceptions.Fundamentos\obj\Debug\net6.0\Exceptions.Fundamentos.dll
+C:\Users\lucas\OneDrive\Documentos\CSharp_Estudos\Exceptions.Fundamentos\obj\Debug\net6.0\refint\Exceptions.Fundamentos.dll
+C:\Users\lucas\OneDrive\Documentos\CSharp_Estudos\Exceptions.Fundamentos\obj\Debug\net6.0\Exceptions.Fundamentos.pdb
+C:\Users\lucas\OneDrive\Documentos\CSharp_Estudos\Exceptions.Fundamentos\obj\Debug\net6.0\Exceptions.Fundamentos.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documentos\CSharp_Estudos\Exceptions.Fundamentos\obj\Debug\net6.0\ref\Exceptions.Fundamentos.dll
