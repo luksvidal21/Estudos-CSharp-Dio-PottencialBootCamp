@@ -1,13 +1,17 @@
 ﻿try
 {
-    
-    String[] arquivo = File.ReadAllLines("Arquivos/Arquivo_Texto.txt");
-
-    foreach(string linhas in arquivo){
-        Console.WriteLine(linhas);
-    }
+    String[] arquivo = File.ReadAllLines("Arquivo/aquivo_texto.txt");
 }
-catch(Exception ex)
+catch(FileNotFoundException ex)
 {
-    Console.WriteLine($"Ocorreu uma exceção genérica: {ex.Message}");
+    //Excessão genérica é capturada com a classe Exception
+    Console.WriteLine($" O arquivo não foi encontrado e a excessão lançada foi: {ex}");
+}
+catch(DirectoryNotFoundException diretorioErrado)
+{
+    Console.WriteLine($" O diretório não foi encontrado e a excessão lançada foi: {diretorioErrado}");
+}
+finally
+{
+    Console.WriteLine("O programa teve as excessões tratadas");
 }

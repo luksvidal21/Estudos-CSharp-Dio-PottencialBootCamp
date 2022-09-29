@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\OneDrive\\Documentos\\CSharp_Estudos\\Exceptions.Fundamentos\\Exceptions.Fundamentos.csproj": {}
+    "C:\\Users\\lucasvnm\\Documents\\Lucas Vidal\\Estudos C#\\Exceptions\\Exceptions.Fundamentos\\Exceptions.Fundamentos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\OneDrive\\Documentos\\CSharp_Estudos\\Exceptions.Fundamentos\\Exceptions.Fundamentos.csproj": {
+    "C:\\Users\\lucasvnm\\Documents\\Lucas Vidal\\Estudos C#\\Exceptions\\Exceptions.Fundamentos\\Exceptions.Fundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\CSharp_Estudos\\Exceptions.Fundamentos\\Exceptions.Fundamentos.csproj",
+        "projectUniqueName": "C:\\Users\\lucasvnm\\Documents\\Lucas Vidal\\Estudos C#\\Exceptions\\Exceptions.Fundamentos\\Exceptions.Fundamentos.csproj",
         "projectName": "Exceptions.Fundamentos",
-        "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\CSharp_Estudos\\Exceptions.Fundamentos\\Exceptions.Fundamentos.csproj",
-        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\CSharp_Estudos\\Exceptions.Fundamentos\\obj\\",
+        "projectPath": "C:\\Users\\lucasvnm\\Documents\\Lucas Vidal\\Estudos C#\\Exceptions\\Exceptions.Fundamentos\\Exceptions.Fundamentos.csproj",
+        "packagesPath": "C:\\Users\\lucasvnm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucasvnm\\Documents\\Lucas Vidal\\Estudos C#\\Exceptions\\Exceptions.Fundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucasvnm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/camedti/fd9ff057-bc68-4ec8-ba12-d92e971accad/_packaging/Intracore/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.106\\RuntimeIdentifierGraph.json"
         }
       }
     }
