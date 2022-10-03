@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "nome_Produto": "Computador",
+    "Preco": 2200.50,
+    "DataVenda": "2022-10-03T15:54:14.7761245-03:00"
+  },
+  {
+    "Id": 2,
+    "nome_Produto": "Cooler",
+    "Preco": 150.79,
+    "DataVenda": "2022-10-03T15:54:14.7761245-03:00"
+  }
+]

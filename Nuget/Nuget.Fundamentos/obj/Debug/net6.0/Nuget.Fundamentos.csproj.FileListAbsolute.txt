@@ -1,0 +1,17 @@
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\Nuget\Nuget.Fundamentos\obj\Debug\net6.0\Nuget.Fundamentos.csproj.AssemblyReference.cache
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\Nuget\Nuget.Fundamentos\obj\Debug\net6.0\Nuget.Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\Nuget\Nuget.Fundamentos\obj\Debug\net6.0\Nuget.Fundamentos.AssemblyInfoInputs.cache
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\Nuget\Nuget.Fundamentos\obj\Debug\net6.0\Nuget.Fundamentos.AssemblyInfo.cs
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\Nuget\Nuget.Fundamentos\obj\Debug\net6.0\Nuget.Fundamentos.csproj.CoreCompileInputs.cache
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\Nuget\Nuget.Fundamentos\bin\Debug\net6.0\Nuget.Fundamentos.exe
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\Nuget\Nuget.Fundamentos\bin\Debug\net6.0\Nuget.Fundamentos.deps.json
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\Nuget\Nuget.Fundamentos\bin\Debug\net6.0\Nuget.Fundamentos.runtimeconfig.json
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\Nuget\Nuget.Fundamentos\bin\Debug\net6.0\Nuget.Fundamentos.dll
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\Nuget\Nuget.Fundamentos\bin\Debug\net6.0\ref\Nuget.Fundamentos.dll
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\Nuget\Nuget.Fundamentos\bin\Debug\net6.0\Nuget.Fundamentos.pdb
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\Nuget\Nuget.Fundamentos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\Nuget\Nuget.Fundamentos\obj\Debug\net6.0\Nuget.Fundamentos.csproj.CopyComplete
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\Nuget\Nuget.Fundamentos\obj\Debug\net6.0\Nuget.Fundamentos.dll
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\Nuget\Nuget.Fundamentos\obj\Debug\net6.0\ref\Nuget.Fundamentos.dll
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\Nuget\Nuget.Fundamentos\obj\Debug\net6.0\Nuget.Fundamentos.pdb
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\Nuget\Nuget.Fundamentos\obj\Debug\net6.0\Nuget.Fundamentos.genruntimeconfig.cache

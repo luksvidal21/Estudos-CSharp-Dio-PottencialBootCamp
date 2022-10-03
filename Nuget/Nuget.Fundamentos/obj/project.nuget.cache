@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZE3TSVMMvh3qZtPSGTJeurRbTGXDXwy/1i3D9uA9zip10MdAnuVSO6OidxROS0AEkEuUwi+WqbMFkmuJAYa+KA==",
+  "dgSpecHash": "g8CXWacib1/FH+dRJDzl6tdcZtH5l51fC6MIDa3+TrGU7Sjnax3EpAnZKE3Ff4NNjmB9E+AYpAPLC1DnzDnGsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\OneDrive\\Documentos\\CSharp_Estudos\\Nuget\\Nuget.Fundamentos\\Nuget.Fundamentos.csproj",
+  "projectFilePath": "C:\\TFS\\Lucas\\Estudos-C--Dio-PottencialBootCamp\\Nuget\\Nuget.Fundamentos\\Nuget.Fundamentos.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lucas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\lucasvnm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
