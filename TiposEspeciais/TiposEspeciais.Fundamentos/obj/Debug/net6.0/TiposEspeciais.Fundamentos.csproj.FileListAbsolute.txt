@@ -1,0 +1,15 @@
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\TiposEspeciais\TiposEspeciais.Fundamentos\bin\Debug\net6.0\TiposEspeciais.Fundamentos.exe
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\TiposEspeciais\TiposEspeciais.Fundamentos\bin\Debug\net6.0\TiposEspeciais.Fundamentos.deps.json
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\TiposEspeciais\TiposEspeciais.Fundamentos\bin\Debug\net6.0\TiposEspeciais.Fundamentos.runtimeconfig.json
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\TiposEspeciais\TiposEspeciais.Fundamentos\bin\Debug\net6.0\TiposEspeciais.Fundamentos.dll
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\TiposEspeciais\TiposEspeciais.Fundamentos\bin\Debug\net6.0\ref\TiposEspeciais.Fundamentos.dll
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\TiposEspeciais\TiposEspeciais.Fundamentos\bin\Debug\net6.0\TiposEspeciais.Fundamentos.pdb
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\TiposEspeciais\TiposEspeciais.Fundamentos\obj\Debug\net6.0\TiposEspeciais.Fundamentos.csproj.AssemblyReference.cache
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\TiposEspeciais\TiposEspeciais.Fundamentos\obj\Debug\net6.0\TiposEspeciais.Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\TiposEspeciais\TiposEspeciais.Fundamentos\obj\Debug\net6.0\TiposEspeciais.Fundamentos.AssemblyInfoInputs.cache
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\TiposEspeciais\TiposEspeciais.Fundamentos\obj\Debug\net6.0\TiposEspeciais.Fundamentos.AssemblyInfo.cs
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\TiposEspeciais\TiposEspeciais.Fundamentos\obj\Debug\net6.0\TiposEspeciais.Fundamentos.csproj.CoreCompileInputs.cache
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\TiposEspeciais\TiposEspeciais.Fundamentos\obj\Debug\net6.0\TiposEspeciais.Fundamentos.dll
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\TiposEspeciais\TiposEspeciais.Fundamentos\obj\Debug\net6.0\ref\TiposEspeciais.Fundamentos.dll
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\TiposEspeciais\TiposEspeciais.Fundamentos\obj\Debug\net6.0\TiposEspeciais.Fundamentos.pdb
+C:\TFS\Lucas\Estudos-C--Dio-PottencialBootCamp\TiposEspeciais\TiposEspeciais.Fundamentos\obj\Debug\net6.0\TiposEspeciais.Fundamentos.genruntimeconfig.cache
