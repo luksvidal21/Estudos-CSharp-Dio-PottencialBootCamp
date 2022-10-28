@@ -15,8 +15,9 @@ namespace POO.Fundamentos.Models
         {
             
         }
+
         public decimal Salario { get; set; }
-        public override void Apresentar()
+        public sealed override void Apresentar()
         {
             Console.WriteLine($"Olá! Sou professor {Nome} e tenho {Idade} anos ");
         }

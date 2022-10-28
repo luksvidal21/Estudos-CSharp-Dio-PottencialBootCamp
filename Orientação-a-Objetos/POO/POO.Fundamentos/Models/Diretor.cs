@@ -5,11 +5,9 @@ using System.Threading.Tasks;
 
 namespace POO.Fundamentos.Models
 {
-    public class Corrente : Conta
+    //Classes seladas/sealed são classes que não permitem que outra classe as herdem
+    public sealed class Diretor : Professor
     {
-        public override void Creditar(decimal credito)
-        {
-            saldo += credito;
-        }
+        
     }
 }
